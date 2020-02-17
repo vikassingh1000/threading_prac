@@ -1,6 +1,5 @@
 package latches;
 
-import sun.plugin.viewer.context.IExplorerAppletContext;
 
 import java.util.ArrayList;
 import java.util.List;
